@@ -1,8 +1,8 @@
 # jdk-practice
 
-- 8
--- Lambda
+## 8
+### Lambda
 
-- 9
--- Collection Factory Method
--- Process
+## 9
+### Collection Factory Method
+### Process
