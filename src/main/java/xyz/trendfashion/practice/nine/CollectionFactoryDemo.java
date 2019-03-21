@@ -1,4 +1,4 @@
-package xyz.trendfashion.practice;
+package xyz.trendfashion.practice.nine;
 
 import java.util.LinkedHashSet;
 import java.util.Set;
